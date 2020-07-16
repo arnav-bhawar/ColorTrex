@@ -1,1 +1,1 @@
-# ColorTrex
+# Color-Trex
